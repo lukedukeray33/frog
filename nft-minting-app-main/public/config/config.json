@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1ec6cba6f58d050bd0333ae1e4d3b74e944ca7e1",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x1ec6cba6f58d050bd0333ae1e4d3b74e944ca7e1",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Riding Frogs",
+  "SYMBOL": "RFNFT",
+  "MAX_SUPPLY": 420,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ridingfrogs",
+  "SHOW_BACKGROUND": true
+}
